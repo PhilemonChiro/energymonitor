@@ -1,6 +1,7 @@
 <x-guest-layout>
     <x-authentication-card>
         <x-slot name="logo">
+            <h1>Power monitor</h1>
             <x-authentication-card-logo />
         </x-slot>
 
